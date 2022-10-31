@@ -1,4 +1,6 @@
 - 👋 You have found the Github repository of BlockImperiumDAO
+- Most of our repositories are private and oriented towards our development and Github Actions.
+- 
 - 📫 You can reach us on Twitter @blockimperium
 
 <!---
