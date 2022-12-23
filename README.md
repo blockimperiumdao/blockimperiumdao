@@ -1,7 +1,8 @@
 - 👋 You have found the Github repository of BlockImperiumDAO
 - Most of our repositories are private and oriented towards our development and Github Actions.
-- 
-- 📫 You can reach us on Twitter @blockimperium
+- This particular Github repository is dedicated to our development work for our Unity project and the NEAR/ETH smart contracts that power the marketplaces.
+
+- 📫 You can reach us on Twitter @blockimperium 
 
 <!---
 blockimperiumdao/blockimperiumdao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
